@@ -1,8 +1,9 @@
 # Site settings
 title: Grayscale
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+email: quinndgreiner@yahoo.com
+url: https://github.com/QuinnDGreiner
+description: 
+" Hello, and welcome to my portfolio website! My name is Quinn Greiner, and I am a fourth-year cybersecurity student at Grand Canyon University with a strong passion for technology and information security. My current career goal is to secure a position as a SOC analyst or in another cybersecurity engineering role. This website is designed to provide insight into my background, showcase my projects, certifications, and skills, and serve as a platform for professional connections. Feel free to explore, and don’t hesitate to reach out if you have questions, want to collaborate on a project, or expand our professional networks within the cybersecurity community."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -10,7 +11,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Your Website
+footer: Quinns Portfolio
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -20,10 +21,10 @@ social:
     url:
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: LinkedIn
+    url: linkedin.com/in/quinn-greiner/
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/QuinnDGreiner
 
 # Build settings
 markdown: kramdown
